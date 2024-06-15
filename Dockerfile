@@ -1,1 +1,1 @@
-docker pull rabbitmq:management
+FROM rabbitmq:management
